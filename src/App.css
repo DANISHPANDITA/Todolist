@@ -1,0 +1,14 @@
+.App {
+  text-align: center;
+  background-image: linear-gradient(to right, rgb(219, 209, 209), rgb(143, 136, 136));
+}
+
+.App .appforml{
+  display: flex !important;
+  justify-content: center;
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+.App h1{
+  font-family: "calibri";
+}
